@@ -25,8 +25,6 @@ echo " ------------------------------------------"
 echo "|              Done gans...                |"
 echo "|            ---------------               |"
 echo "|Cek dsni /APPS/backup/$namaNode ...       |"
-echo "|OR ...                                    |"
-echo "|http://10.7.72.7/                         |"
 echo " ------------------------------------------"
 sleep 10
-rm -rf /APPS/backup-mPros.sh > /dev/null 2>&1 
+
